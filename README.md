@@ -1,6 +1,6 @@
 # canbus
 
-This is a project to make a real time CAN packet monitoring system using Arduino and MCP2515 modules with the shield you see below. This makes a very affordable and reliable CAN packet monitor and injector. With this data packages we can write the temperature value on the MediNav screen. Unfortunately there is no temp gauge on this Renault models (:
+This is a project to make a real time CAN packet monitoring system using Arduino Nano and MCP2515 modules with the shield you see below. This makes a very affordable and reliable CAN packet monitor and injector. With this data packages we can write the temperature value on the MediNav screen. Unfortunately there is no temp gauge on this Renault models (:
 
 for more details check https://www.drive2.ru/l/492757132177834460/
 
